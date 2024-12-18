@@ -16,7 +16,6 @@ from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types import (
     AudioParameters, 
     VideoParameters, 
-    VideoQuality,
 )
 from pytgcalls.types.stream import StreamAudioEnded
 

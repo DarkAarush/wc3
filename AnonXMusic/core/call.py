@@ -15,7 +15,6 @@ from pytgcalls.types import Update
 from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types import (
     AudioParameters, 
-    AudioQuality, 
     VideoParameters, 
     VideoQuality,
 )
